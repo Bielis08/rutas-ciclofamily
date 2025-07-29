@@ -13,6 +13,69 @@
     </link>
     <time>2024-09-15T10:28:34Z</time>
   </metadata>
+  <wpt lat="41.455872" lon="2.195504">
+    <ele>31.2</ele>
+    <time>2024-09-15T14:51:09Z</time>
+    <name>Carril Bici nuevo</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.451531" lon="2.201056">
+    <ele>26.6</ele>
+    <time>2024-09-15T14:52:20Z</time>
+    <name>Carril Bici urbano</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.426725" lon="2.234884">
+    <ele>9.7</ele>
+    <time>2024-09-15T14:47:26Z</time>
+    <name>Las Tres Xemeneies</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.453476" lon="2.198151">
+    <ele>15.0</ele>
+    <time>2024-09-15T14:51:50Z</time>
+    <name>Parc Fluvial del Besos 1</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.443596" lon="2.208094">
+    <ele>20.1</ele>
+    <time>2024-09-15T14:53:50Z</time>
+    <name>Parc Fluvial del Besos 2</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.465473" lon="2.280058">
+    <ele>3.9</ele>
+    <time>2024-09-15T14:55:43Z</time>
+    <name>Platja de Montgat</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.437759" lon="2.244581">
+    <ele>.0</ele>
+    <time>2024-09-15T14:55:11Z</time>
+    <name>Platja del Coco</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
+  <wpt lat="41.486853" lon="2.187728">
+    <ele>44.7</ele>
+    <time>2024-09-15T14:48:48Z</time>
+    <name>Santa Engràcia</name>
+    <cmt>Santa Engràcia</cmt>
+    <desc>Santa Engràcia</desc>
+  </wpt>
+  <wpt lat="41.464080" lon="2.188988">
+    <ele>29.5</ele>
+    <time>2024-09-15T14:50:01Z</time>
+    <name>Vistas Besós</name>
+    <cmt></cmt>
+    <desc></desc>
+  </wpt>
   <trk>
     <name>Santa Perpètua de Mogoda - Playa de Montgat</name>
     <cmt>Ruta circular desde La Florida pasando por: 
@@ -630,11 +693,11 @@
       </trkpt>
       <trkpt lat="41.491368" lon="2.188951">
         <ele>41.388</ele>
-        <time>2024-12-11T16:14:50.139611311Z</time>
+        <time>2025-07-29T15:18:32.624465521Z</time>
       </trkpt>
       <trkpt lat="41.491262" lon="2.188872">
         <ele>41.425</ele>
-        <time>2024-12-11T16:15:10.139614567Z</time>
+        <time>2025-07-29T15:18:52.624468898Z</time>
       </trkpt>
       <trkpt lat="41.491191" lon="2.188780">
         <ele>41.352</ele>
@@ -2654,11 +2717,11 @@
       </trkpt>
       <trkpt lat="41.424295" lon="2.231273">
         <ele>6.509</ele>
-        <time>2024-12-11T19:03:30.141117491Z</time>
+        <time>2025-07-29T18:07:12.625863024Z</time>
       </trkpt>
       <trkpt lat="41.424333" lon="2.231205">
         <ele>6.450</ele>
-        <time>2024-12-11T19:03:50.141120527Z</time>
+        <time>2025-07-29T18:07:32.625866Z</time>
       </trkpt>
       <trkpt lat="41.424395" lon="2.231118">
         <ele>5.957</ele>
@@ -2666,7 +2729,7 @@
       </trkpt>
       <trkpt lat="41.424438" lon="2.231106">
         <ele>5.134</ele>
-        <time>2024-12-11T19:04:30.141126138Z</time>
+        <time>2025-07-29T18:08:12.625871110Z</time>
       </trkpt>
       <trkpt lat="41.424714" lon="2.231325">
         <ele>2.829</ele>
@@ -3118,7 +3181,7 @@
       </trkpt>
       <trkpt lat="41.438017" lon="2.243752">
         <ele>0.011</ele>
-        <time>2024-12-11T19:42:10.141438012Z</time>
+        <time>2025-07-29T18:45:52.626182321Z</time>
       </trkpt>
       <trkpt lat="41.438074" lon="2.243773">
         <ele>0.109</ele>
@@ -3246,15 +3309,15 @@
       </trkpt>
       <trkpt lat="41.441747" lon="2.246450">
         <ele>8.339</ele>
-        <time>2024-12-11T19:52:50.141524714Z</time>
+        <time>2025-07-29T18:56:32.626263543Z</time>
       </trkpt>
       <trkpt lat="41.441799" lon="2.246476">
         <ele>7.560</ele>
-        <time>2024-12-11T19:53:10.141527609Z</time>
+        <time>2025-07-29T18:56:52.626266268Z</time>
       </trkpt>
       <trkpt lat="41.441835" lon="2.246513">
         <ele>6.261</ele>
-        <time>2024-12-11T19:53:30.141530465Z</time>
+        <time>2025-07-29T18:57:12.626268973Z</time>
       </trkpt>
       <trkpt lat="41.441860" lon="2.246543">
         <ele>5.196</ele>
@@ -4074,23 +4137,23 @@
       </trkpt>
       <trkpt lat="41.462244" lon="2.272231">
         <ele>5.022</ele>
-        <time>2024-12-11T21:01:50.142097186Z</time>
+        <time>2025-07-29T20:05:32.626827538Z</time>
       </trkpt>
       <trkpt lat="41.462298" lon="2.272171">
         <ele>5.622</ele>
-        <time>2024-12-11T21:02:10.142100111Z</time>
+        <time>2025-07-29T20:05:52.626830323Z</time>
       </trkpt>
       <trkpt lat="41.462336" lon="2.272099">
         <ele>6.073</ele>
-        <time>2024-12-11T21:02:30.142103007Z</time>
+        <time>2025-07-29T20:06:12.626833078Z</time>
       </trkpt>
       <trkpt lat="41.462412" lon="2.272028">
         <ele>6.884</ele>
-        <time>2024-12-11T21:02:50.142105892Z</time>
+        <time>2025-07-29T20:06:32.626835793Z</time>
       </trkpt>
       <trkpt lat="41.462452" lon="2.271988">
         <ele>7.479</ele>
-        <time>2024-12-11T21:03:10.142110631Z</time>
+        <time>2025-07-29T20:06:52.626838448Z</time>
       </trkpt>
       <trkpt lat="41.462469" lon="2.271979">
         <ele>7.696</ele>
